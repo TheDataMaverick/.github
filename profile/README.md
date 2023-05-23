@@ -1,12 +1,9 @@
 ## Hi there 👋
 
-<!--
+Wellcome to The Data Maverick, home of The Standard Model of data management
 
-**Here are some ideas to get you started:**
+#### Please visit:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[**The Standard Model**](https://github.com/TheDataMaverick/TheStandardModel) A collections of articles that describes The Standard Model of data management
+
+[**The Standard Model Experimental**](https://github.com/TheDataMaverick/TheStandardModel-Experimental) | A testing ground for potential new features and implementations for The Standard Model
